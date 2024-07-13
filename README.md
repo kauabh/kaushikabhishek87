@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikabhishek87)](https://github.com/kaushikabhishek87/github-readme-stats)
+
 <!--
 **kaushikabhishek87/kaushikabhishek87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
