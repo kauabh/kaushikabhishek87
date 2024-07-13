@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building robust MLOPs solutions
+- 🌱 I’m currently learning about building robust MLOPs solutions
+
+
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikabhishek87)](https://github.com/kaushikabhishek87/github-readme-stats)
 
 <!--
