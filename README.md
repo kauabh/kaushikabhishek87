@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on building robust MLOPs solutions
 - 🌱 I’m currently learning about building robust MLOPs solutions
 
-![](https://komarev.com/ghpvc/?username=kaushikabhishek87)
+![](https://komarev.com/ghpvc/?username=kauabh)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikabhishek87)](https://github.com/kaushikabhishek87/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kauabh)](https://github.com/kaushikabhishek87/github-readme-stats)
 
 
 <!--
